@@ -112,7 +112,88 @@ In Version 2.0, ROE, P/E, and P/B are added as supplementary screening indicator
 
 ### 6.2 Relative Strength
 
-Relative Strength vs VN-Index is calculated as:
+Relative Strength vs VN30 is calculated as:
 
-```text
-Stock Quarterly Return − VN-Index Quarterly Return
+Stock Quarterly Return − VN30 Quarterly Return
+
+A positive value indicates that the stock outperformed the benchmark during the selected quarter.
+
+---
+
+### 6.3 Opportunity Cost
+
+Opportunity cost is estimated by comparing a selected stock with sector peers.
+
+Score Gap = Peer Signal Score − Selected Stock Signal Score
+
+Return Gap = Peer 3-Month Return − Selected Stock 3-Month Return
+
+Higher positive gaps indicate higher potential opportunity cost.
+
+---
+
+### 6.4 Fundamental & Valuation Overlay
+
+Version 2.0 adds the following latest available snapshot indicators:
+
+- ROE (%)
+- P/E
+- P/B
+
+These indicators are used to support stock screening and interpretation. They may change over time due to new financial reports and market price movements.
+
+---
+
+## 7. Tools Used
+
+- Python
+- pandas
+- vnstock
+- Power BI
+- DAX
+- CSV-based data pipeline
+- Excel for data checking
+
+---
+
+## 8. Repository Structure
+
+vietnam-equity-signal-dashboard/
+├── data/
+│   ├── mapping/
+│   └── processed/
+├── images/
+├── PDF/
+├── powerbi/
+├── python/
+├── requirements.txt
+└── README.md
+
+---
+
+## 9. Limitations
+
+- The stock universe is a VN30-style selected universe and should be reviewed periodically.
+- ROE, P/E, and P/B are latest available snapshot indicators, not historical quarterly fundamentals.
+- Fundamental and valuation indicators are used as overlays in Version 2.0 and are not yet fully integrated into the total score.
+- The dashboard does not include macroeconomic indicators, news sentiment, transaction costs, or forward-looking estimates.
+- The model is designed for screening and monitoring, not direct investment decisions.
+
+---
+
+## 10. Next Phase
+
+Planned improvements:
+
+- Replace placeholder fundamental and valuation scores with full ratio-based scoring.
+- Add ROA, EPS growth, revenue growth, profit growth, P/S, and debt-to-equity.
+- Develop sector-relative valuation scoring.
+- Add sector rotation and market breadth indicators.
+- Build a stock-level detail page for deeper analysis.
+- Add simple backtesting for signal score performance.
+
+---
+
+## 11. Disclaimer
+
+This dashboard is not investment advice. It is built for educational, analytical, and portfolio demonstration purposes only.Stock Quarterly Return − VN-Index Quarterly Return
