@@ -196,4 +196,4 @@ Planned improvements:
 
 ## 11. Disclaimer
 
-This dashboard is not investment advice. It is built for educational, analytical, and portfolio demonstration purposes only.Stock Quarterly Return − VN-Index Quarterly Return
+This dashboard is not investment advice. It is built for educational, analytical, and portfolio demonstration purposes only.Stock Quarterly Return - VN-Index Quarterly Return
