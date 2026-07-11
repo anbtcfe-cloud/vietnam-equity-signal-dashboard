@@ -8,7 +8,7 @@ The dashboard combines a Python-based data pipeline with Power BI visualization 
 
 Version 2.0 adds a fundamental and valuation overlay using ROE, P/E, and P/B as latest available snapshot indicators.
 
-
+---
 
 ## 2. Objectives
 
@@ -21,7 +21,7 @@ The project aims to:
 - Compare selected stocks with sector peers to assess opportunity cost.
 - Add ROE, P/E, and P/B as fundamental and valuation overlay indicators for stock screening.
 
-
+---
 
 ## 3. Dashboard Pages
 
@@ -57,7 +57,7 @@ This page explains the data pipeline, scoring framework, relative strength logic
 
 ![Methodology](images/04_methodology_data_notes_v2.png)
 
-
+---
 
 ## 4. Data Pipeline
 
@@ -75,7 +75,7 @@ Pipeline workflow:
 8. Add ROE, P/E, and P/B as fundamental and valuation snapshot indicators.
 9. Load processed CSV files into Power BI.
 
-
+---
 
 ## 5. Key Features
 
@@ -91,7 +91,7 @@ Pipeline workflow:
 - ROE, P/E, and P/B fundamental valuation overlay
 - Power BI dashboard with four analytical pages
 
-
+---
 
 ## 6. Methodology
 
@@ -142,7 +142,7 @@ Version 2.0 adds the following latest available snapshot indicators:
 
 These indicators are used to support stock screening and interpretation. They may change over time due to new financial reports and market price movements.
 
-
+---
 
 ## 7. Tools Used
 
@@ -154,7 +154,7 @@ These indicators are used to support stock screening and interpretation. They ma
 - CSV-based data pipeline
 - Excel for data checking
 
-
+---
 
 ## 8. Repository Structure
 
@@ -169,7 +169,7 @@ vietnam-equity-signal-dashboard/
 ├── requirements.txt
 └── README.md
 
-
+---
 
 ## 9. Limitations
 
@@ -179,7 +179,7 @@ vietnam-equity-signal-dashboard/
 - The dashboard does not include macroeconomic indicators, news sentiment, transaction costs, or forward-looking estimates.
 - The model is designed for screening and monitoring, not direct investment decisions.
 
-
+---
 
 ## 10. Next Phase
 
@@ -192,7 +192,7 @@ Planned improvements:
 - Build a stock-level detail page for deeper analysis.
 - Add simple backtesting for signal score performance.
 
-
+---
 
 ## 11. Disclaimer
 
