@@ -1,0 +1,31 @@
+﻿ticker,company_name,sector,report_period,metric_basis,price_date,data_as_of,roe_pct,pe,pb,source_name,source_note
+VCB,Vietcombank,Banking,Latest available,Latest available snapshot,2026-07-10,2026-07-10,3.83,12.66,2.11,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+BID,BIDV,Banking,Latest available,Latest available snapshot,2026-07-10,2026-07-10,6.68,9.09,1.57,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+CTG,VietinBank,Banking,Latest available,Latest available snapshot,2026-07-10,2026-07-10,6.32,5.55,1.07,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+TCB,Techcombank,Banking,Latest available,Latest available snapshot,2026-07-10,2026-07-10,3.72,9.76,1.38,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+MBB,Military Bank,Banking,Latest available,Latest available snapshot,2026-07-10,2026-07-10,6.37,6.36,1.43,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+VPB,VPBank,Banking,Latest available,Latest available snapshot,2026-07-10,2026-07-10,4.68,9.48,1.26,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+ACB,ACB,Banking,Latest available,Latest available snapshot,2026-07-10,2026-07-10,3.0,7.43,1.3,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+STB,Sacombank,Banking,Latest available,Latest available snapshot,2026-07-10,2026-07-10,-4.49,18.41,1.83,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+HDB,HDBank,Banking,Latest available,Latest available snapshot,2026-07-10,2026-07-10,6.96,6.39,1.46,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+TPB,TPBank,Banking,Latest available,Latest available snapshot,2026-07-10,2026-07-10,5.91,6.16,1.03,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+SSI,SSI Securities,Securities,Latest available,Latest available snapshot,2026-07-10,2026-07-10,2.59,14.74,1.96,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+HCM,HSC Securities,Securities,Latest available,Latest available snapshot,2026-07-10,2026-07-10,2.53,15.25,1.66,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+VCI,Vietcap Securities,Securities,Latest available,Latest available snapshot,2026-07-10,2026-07-10,2.89,18.96,1.67,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+VIC,Vingroup,Real Estate,Latest available,Latest available snapshot,2026-07-10,2026-07-10,4.32,49.13,8.66,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+VHM,Vinhomes,Real Estate,Latest available,Latest available snapshot,2026-07-10,2026-07-10,11.07,12.38,2.05,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+VRE,Vincom Retail,Real Estate,Latest available,Latest available snapshot,2026-07-10,2026-07-10,5.65,11.86,1.58,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+KDH,Khang Dien House,Real Estate,Latest available,Latest available snapshot,2026-07-10,2026-07-10,2.39,31.63,1.67,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+MWG,Mobile World,Retail,Latest available,Latest available snapshot,2026-07-10,2026-07-10,6.38,18.51,3.94,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+PNJ,Phu Nhuan Jewelry,Retail,Latest available,Latest available snapshot,2026-07-10,2026-07-10,9.65,11.59,2.49,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+MSN,Masan Group,Consumer,Latest available,Latest available snapshot,2026-07-10,2026-07-10,3.35,27.94,2.6,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+VNM,Vinamilk,Consumer,Latest available,Latest available snapshot,2026-07-10,2026-07-10,7.84,13.59,3.71,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+SAB,Sabeco,Consumer,Latest available,Latest available snapshot,2026-07-10,2026-07-10,4.47,14.21,2.73,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+FPT,FPT Corporation,Technology,Latest available,Latest available snapshot,2026-07-10,2026-07-10,5.78,15.92,3.73,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+HPG,Hoa Phat Group,Steel,Latest available,Latest available snapshot,2026-07-10,2026-07-10,2.98,11.98,1.54,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+GVR,Vietnam Rubber Group,Materials,Latest available,Latest available snapshot,2026-07-10,2026-07-10,1.58,19.1,1.68,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+GAS,PV Gas,Energy,Latest available,Latest available snapshot,2026-07-10,2026-07-10,2.03,14.98,2.58,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+PLX,Petrolimex,Energy,Latest available,Latest available snapshot,2026-07-10,2026-07-10,2.01,17.16,1.52,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+POW,PV Power,Utilities,Latest available,Latest available snapshot,2026-07-10,2026-07-10,1.32,12.86,0.8,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+VJC,Vietjet Air,Transportation,Latest available,Latest available snapshot,2026-07-10,2026-07-10,2.07,54.93,4.98,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project
+BCM,Becamex IDC,Industrial Parks,Latest available,Latest available snapshot,2026-07-10,2026-07-10,5.46,18.38,2.74,vnstock,Latest available ratio snapshot collected via vnstock for portfolio project

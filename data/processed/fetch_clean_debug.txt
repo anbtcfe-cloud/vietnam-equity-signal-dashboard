@@ -1,0 +1,61 @@
+📦 Vnai 2.5.0 is available
+Current: 2.4.9 (Python 3.13 (venv))
+Update: C:\Users\u\Documents\vietnam-equity-signal-dashboard\.venv\Scripts\python.exe -m pip install vnai --upgrade
+Release: https://pypi.org/project/vnai/#history
+Starting clean fundamental fetch...
+Input file: C:\Users\u\Documents\vietnam-equity-signal-dashboard\data\processed\fact_fundamental_latest.csv
+Rows: 30
+------------------------------------------------------------
+Fetching VCB...
+  OK | ROE=3.83 | P/E=12.66 | P/B=2.11
+Fetching BID...
+  OK | ROE=6.68 | P/E=9.09 | P/B=1.57
+Fetching CTG...
+  OK | ROE=6.32 | P/E=5.55 | P/B=1.07
+Fetching TCB...
+  OK | ROE=3.72 | P/E=9.76 | P/B=1.38
+Fetching MBB...
+  OK | ROE=6.37 | P/E=6.36 | P/B=1.43
+Fetching VPB...
+  OK | ROE=4.68 | P/E=9.48 | P/B=1.26
+Fetching ACB...
+  OK | ROE=3.0 | P/E=7.43 | P/B=1.3
+Fetching STB...
+  OK | ROE=-4.49 | P/E=18.41 | P/B=1.83
+Fetching HDB...
+  OK | ROE=6.96 | P/E=6.39 | P/B=1.46
+Fetching TPB...
+  OK | ROE=5.91 | P/E=6.16 | P/B=1.03
+Fetching SSI...
+Rate limit exceeded. 
+============================================================
+⚠️  GIỚI HẠN API ĐÃ ĐẠT TỐI ĐA (Rate Limit Exceeded)
+============================================================
+
+📌 Bạn đã đạt giới hạn tối đa số lượt yêu cầu API trong 1 phút (minute).
+   (You have reached the maximum API request limit for this period)
+
+📊 Chi tiết (Details):
+   • Gói hiện tại: Khách (Guest)
+   • Giới hạn: 20 requests/phút
+   • Đã sử dụng: 20/20
+   • Chờ 59 giây để tiếp tục (Wait to retry)
+
+💡 Giải pháp (Solutions):
+   1️⃣ Chờ 59 giây rồi thử lại
+      (Wait and retry)
+   2️⃣ Tham gia chương trình tài trợ dự án (Sponsor) để sử dụng không gián đoạn.
+      Lưu ý: vnstock là công cụ mã nguồn mở giúp tự động hoá kết nối với
+      các API công khai mà bạn vốn đã có quyền truy cập hợp lệ, không
+      phải nhà cung cấp dữ liệu. Việc tài trợ giúp duy trì
+      nghiên cứu - phát triển công cụ và hạ tầng công nghệ phục vụ cộng đồng.
+
+🚀 Nâng cấp (Upgrade):
+   • Phiên bản cộng đồng (60 request/phút - Community):
+     Đăng ký API key miễn phí: https://vnstocks.com/login
+   • Gói thành viên tài trợ (180-600 request/phút - Sponsor):
+     Tham gia: https://vnstocks.com/insiders-program
+     Sau khi tham gia tài trợ, cài bộ thư viện riêng vnstock_data theo hướng dẫn https://vnstocks.com/onboard-member
+
+============================================================
+ Process terminated.

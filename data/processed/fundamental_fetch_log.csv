@@ -1,0 +1,31 @@
+﻿ticker,roe_pct,pe,pb,roe_col,pe_col,pb_col,status,error
+VCB,3.83,12.66,2.11,roe,pe_ratio,pb_ratio,OK,
+BID,6.68,9.09,1.57,roe,pe_ratio,pb_ratio,OK,
+CTG,6.32,5.55,1.07,roe,pe_ratio,pb_ratio,OK,
+TCB,3.72,9.76,1.38,roe,pe_ratio,pb_ratio,OK,
+MBB,6.37,6.36,1.43,roe,pe_ratio,pb_ratio,OK,
+VPB,4.68,9.48,1.26,roe,pe_ratio,pb_ratio,OK,
+ACB,3.0,7.43,1.3,roe,pe_ratio,pb_ratio,OK,
+STB,-4.49,18.41,1.83,roe,pe_ratio,pb_ratio,OK,
+HDB,6.96,6.39,1.46,roe,pe_ratio,pb_ratio,OK,
+TPB,5.91,6.16,1.03,roe,pe_ratio,pb_ratio,OK,
+SSI,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+HCM,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+VCI,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+VIC,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+VHM,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+VRE,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+KDH,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+MWG,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+PNJ,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+MSN,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+VNM,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+SAB,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+FPT,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+HPG,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+GVR,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+GAS,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+PLX,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+POW,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+VJC,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>
+BCM,,,,,,,FAILED,'charmap' codec can't encode characters in position 2-3: character maps to <undefined>

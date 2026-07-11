@@ -1,0 +1,11 @@
+ticker,company_name,exchange,sector,industry,is_vn30
+VCB,Vietcombank,HOSE,Banking,Commercial Bank,1
+BID,BIDV,HOSE,Banking,Commercial Bank,1
+TCB,Techcombank,HOSE,Banking,Commercial Bank,1
+MBB,Military Bank,HOSE,Banking,Commercial Bank,1
+SSI,SSI Securities,HOSE,Securities,Brokerage,1
+HCM,HSC Securities,HOSE,Securities,Brokerage,1
+VCI,Vietcap Securities,HOSE,Securities,Brokerage,1
+FPT,FPT Corporation,HOSE,Technology,IT Services,1
+MWG,Mobile World,HOSE,Retail,Consumer Retail,1
+PNJ,Phu Nhuan Jewelry,HOSE,Retail,Jewelry Retail,1

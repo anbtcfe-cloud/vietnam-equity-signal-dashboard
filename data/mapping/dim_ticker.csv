@@ -1,0 +1,31 @@
+ticker,company_name,exchange,sector,industry,is_vn30
+VCB,Vietcombank,HOSE,Banking,Commercial Bank,1
+BID,BIDV,HOSE,Banking,Commercial Bank,1
+CTG,VietinBank,HOSE,Banking,Commercial Bank,1
+TCB,Techcombank,HOSE,Banking,Commercial Bank,1
+MBB,Military Bank,HOSE,Banking,Commercial Bank,1
+VPB,VPBank,HOSE,Banking,Commercial Bank,1
+ACB,ACB,HOSE,Banking,Commercial Bank,1
+STB,Sacombank,HOSE,Banking,Commercial Bank,1
+HDB,HDBank,HOSE,Banking,Commercial Bank,1
+TPB,TPBank,HOSE,Banking,Commercial Bank,1
+SSI,SSI Securities,HOSE,Securities,Brokerage,1
+HCM,HSC Securities,HOSE,Securities,Brokerage,1
+VCI,Vietcap Securities,HOSE,Securities,Brokerage,1
+VIC,Vingroup,HOSE,Real Estate,Conglomerate / Real Estate,1
+VHM,Vinhomes,HOSE,Real Estate,Residential Real Estate,1
+VRE,Vincom Retail,HOSE,Real Estate,Retail Real Estate,1
+KDH,Khang Dien House,HOSE,Real Estate,Residential Real Estate,1
+MWG,Mobile World,HOSE,Retail,Consumer Retail,1
+PNJ,Phu Nhuan Jewelry,HOSE,Retail,Jewelry Retail,1
+MSN,Masan Group,HOSE,Consumer,Consumer Goods,1
+VNM,Vinamilk,HOSE,Consumer,Dairy,1
+SAB,Sabeco,HOSE,Consumer,Beverage,1
+FPT,FPT Corporation,HOSE,Technology,IT Services,1
+HPG,Hoa Phat Group,HOSE,Steel,Steel,1
+GVR,Vietnam Rubber Group,HOSE,Materials,Rubber / Industrial Materials,1
+GAS,PV Gas,HOSE,Energy,Gas,1
+PLX,Petrolimex,HOSE,Energy,Petroleum Distribution,1
+POW,PV Power,HOSE,Utilities,Power Generation,1
+VJC,Vietjet Air,HOSE,Transportation,Airlines,1
+BCM,Becamex IDC,HOSE,Industrial Parks,Industrial Real Estate,1

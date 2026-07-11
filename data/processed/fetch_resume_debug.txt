@@ -1,0 +1,46 @@
+📦 Vnai 2.5.0 is available
+Current: 2.4.9 (Python 3.13 (venv))
+Update: C:\Users\u\Documents\vietnam-equity-signal-dashboard\.venv\Scripts\python.exe -m pip install vnai --upgrade
+Release: https://pypi.org/project/vnai/#history
+Starting resume slow fundamental fetch...
+Rows: 30
+Sleep per ticker: 7 seconds
+------------------------------------------------------------
+Skipping VCB: already has ROE/P/E/P/B
+Skipping BID: already has ROE/P/E/P/B
+Skipping CTG: already has ROE/P/E/P/B
+Skipping TCB: already has ROE/P/E/P/B
+Skipping MBB: already has ROE/P/E/P/B
+Skipping VPB: already has ROE/P/E/P/B
+Skipping ACB: already has ROE/P/E/P/B
+Skipping STB: already has ROE/P/E/P/B
+Skipping HDB: already has ROE/P/E/P/B
+Skipping TPB: already has ROE/P/E/P/B
+Skipping SSI: already has ROE/P/E/P/B
+Skipping HCM: already has ROE/P/E/P/B
+Skipping VCI: already has ROE/P/E/P/B
+Skipping VIC: already has ROE/P/E/P/B
+Skipping VHM: already has ROE/P/E/P/B
+Skipping VRE: already has ROE/P/E/P/B
+Skipping KDH: already has ROE/P/E/P/B
+Skipping MWG: already has ROE/P/E/P/B
+Skipping PNJ: already has ROE/P/E/P/B
+Skipping MSN: already has ROE/P/E/P/B
+Skipping VNM: already has ROE/P/E/P/B
+Skipping SAB: already has ROE/P/E/P/B
+Skipping FPT: already has ROE/P/E/P/B
+Skipping HPG: already has ROE/P/E/P/B
+Skipping GVR: already has ROE/P/E/P/B
+Skipping GAS: already has ROE/P/E/P/B
+Skipping PLX: already has ROE/P/E/P/B
+Skipping POW: already has ROE/P/E/P/B
+Skipping VJC: already has ROE/P/E/P/B
+Skipping BCM: already has ROE/P/E/P/B
+------------------------------------------------------------
+Done.
+Updated file: C:\Users\u\Documents\vietnam-equity-signal-dashboard\data\processed\fact_fundamental_latest.csv
+Log file: C:\Users\u\Documents\vietnam-equity-signal-dashboard\data\processed\fundamental_fetch_log_resume.csv
+Status counts:
+status
+SKIPPED_EXISTING    30
+Name: count, dtype: int64
